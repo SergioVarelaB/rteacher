@@ -1,0 +1,17 @@
+class perseptron {
+	float weights = new float[2];
+
+	void perceptron(){
+	for( int i =  0; i< weights.length; i++){
+		weights[i] = random (-1,1);
+	}
+
+	}
+
+	int guess(float[] inputs ) {
+		float sum = 0 ;
+		for
+	} 
+
+
+}
