@@ -16,7 +16,7 @@ input:focus {
   border-color: #e6e6ff;
 }
 input:focus + .input-icon i {
-  color: #ff3385;
+  color: #f5a3df;
 }
 input:focus + .input-icon:after {
   border-right-color: #e6e6ff;
