@@ -89,7 +89,8 @@ input:focus {
 }
 
 input:focus+.input-icon i {
-    color: #99ebff;
+    color: #000000;
+    /*aqui cae pex*/
 }
 
 input:focus+.input-icon:after {
@@ -127,9 +128,9 @@ input[type="radio"]:checked+label,
 input:checked+label:before,
 select:focus,
 select:active {
-    background-color: #99ebff;
-    color: #fff;
-    border-color: #99ebff;
+    background-color: #7BBFF2;
+    color: #000000;
+    border-color: #1061FF;
 }
 
 input[type="checkbox"] {
@@ -189,8 +190,9 @@ select:active {
 }
 
 select option {
-    background-color: #99ebff;
-    color: #fff;
+    background-color: #ffffff;
+    color: #000000;
+    border-color: #1061FF;
 }
 
 .input-group {
